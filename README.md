@@ -1,5 +1,10 @@
 # datafun-03-datatypes
 
+#Jose Guzman 
+#Sept. 9, 2023
+#Music 
+
+
 > Practice with Python data types, filter(), map(), and list comprehensions
 
 
