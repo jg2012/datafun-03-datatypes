@@ -190,6 +190,8 @@ def illustrate_dictionaries():
     }
     logger.info(f"data_dict = {data_dict}")
 
+    
+
     # In data anlytics, dictionaries may be used to store and manipulate
     # tabular data, e.g. from database records or Excel rows.
 
